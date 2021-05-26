@@ -1,0 +1,27 @@
+{
+
+  "name": "TEST BOT",
+
+  "version": "0.0.1",
+
+  "description": "my bot",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "author": "WarCriminal",
+
+  "license": "MIT",
+
+  "dependencies": {
+
+    "discord.js": "latest"
+
+  }
+
+}
